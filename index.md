@@ -1,6 +1,9 @@
 <div>
 <table border="0">
   <tr>
+    <td width="25%">
+      <img src="/portrait.png" width="200px">
+    </td>
     <td width="75%">
       <h1>段红妃</h1>
       <p><b>硕士研究生</b></p>
@@ -8,9 +11,6 @@
       <p><b>邮箱：21260720015@m.fudan.edu.cn</b></p>
       <p><b>地址：上海市杨浦区淞沪路2005号</b></p>
       <p><a href="/index-en.html">English Version</a></p>
-    </td>
-    <td width="25%">
-      <img src="/portrait.png" width="200px">
     </td>
   </tr>
 </table>
