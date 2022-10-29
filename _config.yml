@@ -2,15 +2,17 @@ theme: jekyll-theme-cayman
 title: 段红妃的个人主页
 description: Personal Homepage
 
-# Profile settings
-author:
-  name: Jekyll Klisé # author name
-  bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: portrait.png # change with your own avatar
+
+# social
+author: lorepirri
+image: /portrait.png
+twitter:
+  username: lorepirri
+
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['now', 'about', 'contact']
