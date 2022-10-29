@@ -1,10 +1,10 @@
 <div>
 <table class="imgtable" border="0">
   <tr>
-    <td width="25%">
+    <td>
       <img src="/portrait.png" width="200px">
     </td>
-    <td width="75%">
+    <td>
       <h1>段红妃</h1>
       <p><b>硕士研究生</b></p>
       <p><b>复旦大学信息科学与工程学院</b></p>
