@@ -9,8 +9,8 @@
       <p><b>地址：上海市杨浦区淞沪路2005号</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
-    <td width="200px">
-      <img src="/portrait.png" width="100%">
+    <td width="25%">
+      <img src="/portrait.png" width="200px" height="250px">
     </td>
   </tr>
 </table>
