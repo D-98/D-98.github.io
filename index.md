@@ -1,5 +1,5 @@
 <div>
-<table border="0">
+<table class="imgtable" border="0">
   <tr>
     <td width="25%">
       <img src="/portrait.png" width="200px">
